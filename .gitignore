@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Scenes
+/Assets/2D Galaxy Assets/Game/Sprites
+/Library
+/Temp
+/Space Shooter Pro.sln
+/Assembly-CSharp.csproj
